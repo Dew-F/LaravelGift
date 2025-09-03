@@ -35,4 +35,8 @@ return [
         ],
     ],
 
+    'parsing' => [
+        'url' => env('PARSING_URL')
+    ]
+
 ];
